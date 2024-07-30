@@ -24,10 +24,10 @@
 
   @media (max-width: 600px) {
     ::-webkit-scrollbar {
-      width: 0px; /* Thinner width for phones */
+      width: 0px; 
     }
   
     ::-webkit-scrollbar-thumb {
-      border-radius: 5px; /* Smaller border radius for thinner scrollbar */
+      border-radius: 5px;
     }
   }

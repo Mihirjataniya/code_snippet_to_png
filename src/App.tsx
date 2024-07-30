@@ -70,11 +70,14 @@ function App() {
 
   return (
     <div className='h-screen w-full overflow-auto bg-black bg-grid-white/[0.2]'>
-      <div className='border-b z-50 bg-black bg-grid-white/[0.2]  border-purple-500 sticky top-0 py-5 px-16 max-sm:px-8 '>
+      <div className='border-b flex items-center justify-between max-sm:gap-5 z-50 bg-black bg-grid-white/[0.2]  border-purple-500 sticky top-0 py-5 px-16 max-sm:px-8 '>
         <p className="font-mono text-3xl max-sm:text-2xl font-bold">
           <span className="bg-gradient-to-r from-purple-400 to-purple-500 bg-clip-text text-transparent">CODE</span>
           <span className="bg-gradient-to-r from-purple-500 to-purple-600 bg-clip-text text-transparent">CAPT</span>
           <span className="bg-gradient-to-r from-purple-600 to-purple-700 bg-clip-text text-transparent">URE</span>
+        </p>
+        <p className="font-mono text-purple-500 text-lg max-sm:text-xs max-sm:text-nowrap font-bold">
+         Made with ❤️ By Mihir
         </p>
       </div>
       <div className='h-auto w-full grid grid-cols-2 max-sm:grid-cols-1 overflow-auto max-sm:h-auto'>
