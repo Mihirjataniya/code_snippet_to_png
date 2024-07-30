@@ -22,7 +22,7 @@ const config: Config = {
           to: {
             backgroundPosition: "-200% 0",
           },
-        },
+        },      
       },
     },
   },
