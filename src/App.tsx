@@ -76,9 +76,9 @@ function App() {
           <span className="bg-gradient-to-r from-purple-500 to-purple-600 bg-clip-text text-transparent">CAPT</span>
           <span className="bg-gradient-to-r from-purple-600 to-purple-700 bg-clip-text text-transparent">URE</span>
         </p>
-        <p className="font-mono text-purple-500 text-lg max-sm:text-xs max-sm:text-nowrap font-bold">
+        <a href='https://github.com/Mihirjataniya' className="font-mono text-purple-500 text-lg max-sm:text-xs max-sm:text-nowrap font-bold">
          Made with ❤️ By Mihir
-        </p>
+        </a>
       </div>
       <div className='h-auto w-full grid grid-cols-2 max-sm:grid-cols-1 overflow-auto max-sm:h-auto'>
 
