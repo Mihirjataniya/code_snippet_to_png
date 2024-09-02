@@ -23,7 +23,7 @@ To get started with the Code Snippet to Image Generator, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/code-snippet-image-generator.git
+   git clone https://github.com/Mihirjataniya/code_snippet_to_png.git
    ```
 
 2. Navigate to the project directory:
